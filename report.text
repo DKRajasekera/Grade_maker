@@ -1,0 +1,5 @@
+Progress: [120, 0, 0]
+Trailing: [100, 20, 0]
+Retriever: [60, 60, 0]
+Exclude: [20, 0, 100]
+Exclude: [0, 0, 120]
